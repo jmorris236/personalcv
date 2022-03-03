@@ -1,0 +1,20 @@
+body {
+  background-color: blue;
+}
+
+hr {
+  border-style: none;
+  border-top-style: solid;
+  border-color: black;
+  border-width: 1px;
+  height: 0px;
+  width: 100%;
+}
+
+h3 {
+  color: DodgerBlue;
+}
+
+h1 {
+  color: DodgerBlue;
+}
